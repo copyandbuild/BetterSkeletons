@@ -1,0 +1,8 @@
+name: BetterSkeletons
+version: '1.0'
+main: dev.larrox.betterSkeletons.BetterSkeletons
+api-version: '1.21'
+load: STARTUP
+authors: [ Larrox ]
+description: BetterSkeletons affects how skeletons behave – for better or worse.
+website: larrox.dev
